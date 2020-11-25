@@ -1,0 +1,27 @@
+{
+  "name": "sample-node-mongo-demo",
+  "version": "1.0.0",
+  "description": "movie collection with node and mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitnirmal2011/sample-node-mongo-demo.git"
+  },
+  "author": "rohit nirmal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitnirmal2011/sample-node-mongo-demo/issues"
+  },
+  "homepage": "https://github.com/rohitnirmal2011/sample-node-mongo-demo#readme",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "config": "^3.3.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3",
+    "nodemon": "^2.0.6"
+  }
+}
